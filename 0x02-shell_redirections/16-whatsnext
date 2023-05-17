@@ -1,0 +1,2 @@
+#!/bin/bash
+less -proot /etc/passwd | head -n 4
